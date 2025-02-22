@@ -9,6 +9,8 @@ Join tg, I will post bots there too.
 
 -You must join discord, you will get test token faucet there:
 
+https://discord.gg/r37zCynK
+
 -Galxe is a must, if you don't complete Galxe, you won't be able to claim testnet dill token for your node setup:
 
 https://app.galxe.com/quest/Dill/GCgJAtvF1h?referral_code=GRFr2Jksp6m_3iKpJtIJ6yBrHaKDBY1deLaqRIKzkxR1_c_
